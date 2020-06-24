@@ -1,0 +1,1 @@
+Proyecto creado con amor por Tomas Ausino Palau, con ayuda del Team Platzi, a través de sus cursos de desarrollo web
